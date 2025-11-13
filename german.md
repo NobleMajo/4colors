@@ -66,57 +66,57 @@ Halte dich nicht zu lange an einer Frage auf – **dein erster Impuls** ist meis
 
 #### 1. Wenn du in einer Gruppe arbeitest, bist du eher der Typ Person, der…
 
-A. die Führung übernimmt und Entscheidungen trifft → 🔴 Rot
-B. gute Stimmung macht und alle begeistert → 🟡 Gelb
-C. zuhört, vermittelt und für Harmonie sorgt → 🟢 Grün
-D. analysiert, plant und auf Details achtet → 🔵 Blau
+- A. die Führung übernimmt und Entscheidungen trifft → 🔴 Rot
+- B. gute Stimmung macht und alle begeistert → 🟡 Gelb
+- C. zuhört, vermittelt und für Harmonie sorgt → 🟢 Grün
+- D. analysiert, plant und auf Details achtet → 🔵 Blau
 
 #### 2. Wenn etwas schiefläuft, reagierst du meist …
 
-* A. mit „Kein Problem, wir machen’s einfach neu!“ → 🔴 Rot
-* B. mit Humor oder neuen Ideen → 🟡 Gelb
-* C. ruhig, du versuchst, alle zu beruhigen → 🟢 Grün
-* D. indem du genau prüfst, *warum* es schiefging → 🔵 Blau
+- A. mit „Kein Problem, wir machen’s einfach neu!“ → 🔴 Rot
+- B. mit Humor oder neuen Ideen → 🟡 Gelb
+- C. ruhig, du versuchst, alle zu beruhigen → 🟢 Grün
+- D. indem du genau prüfst, *warum* es schiefging → 🔵 Blau
 
 #### 3. Wie würdest du am liebsten arbeiten?
 
-* A. Schnell, mit klaren Zielen → 🔴
-* B. In einem Team, das Spaß hat → 🟡
-* C. In ruhiger Atmosphäre ohne Stress → 🟢
-* D. Nach Plan, mit klaren Regeln → 🔵
+- A. Schnell, mit klaren Zielen → 🔴
+- B. In einem Team, das Spaß hat → 🟡
+- C. In ruhiger Atmosphäre ohne Stress → 🟢
+- D. Nach Plan, mit klaren Regeln → 🔵
 
 #### 4. Welche Aussage beschreibt dich am besten?
 
-* A. Ich sage, was ich denke, direkt auf den Punkt. → 🔴
-* B. Ich rede gern mit Menschen und bin spontan. → 🟡
-* C. Ich bin hilfsbereit und will niemanden verletzen. → 🟢
-* D. Ich bin vorsichtig, gründlich und mag Fakten. → 🔵
+- A. Ich sage, was ich denke, direkt auf den Punkt. → 🔴
+- B. Ich rede gern mit Menschen und bin spontan. → 🟡
+- C. Ich bin hilfsbereit und will niemanden verletzen. → 🟢
+- D. Ich bin vorsichtig, gründlich und mag Fakten. → 🔵
 
 # 🎨 Das 4-Farben-Modell einfach erklärt
 
 ## 🔴 Rot – Der Macher
 
-**Stärken:** Zielorientiert, entscheidungsfreudig, mutig
-**Schwächen:** Ungeduldig, manchmal zu direkt
-**Motto:** *„Mach’s einfach!“*
+- **Stärken:** Zielorientiert, entscheidungsfreudig, mutig
+- **Schwächen:** Ungeduldig, manchmal zu direkt
+- **Motto:** *„Mach’s einfach!“*
 
 ## 🟡 Gelb – Der Inspirator
 
-**Stärken:** Offen, kreativ, motivierend
-**Schwächen:** Sprunghaft, manchmal unzuverlässig
-**Motto:** *„Das wird super!“*
+- **Stärken:** Offen, kreativ, motivierend
+- **Schwächen:** Sprunghaft, manchmal unzuverlässig
+- **Motto:** *„Das wird super!“*
 
 ## 🟢 Grün – Der Unterstützer
 
-**Stärken:** Geduldig, empathisch, ruhig
-**Schwächen:** Konfliktscheu, manchmal zu passiv
-**Motto:** *„Hauptsache, wir verstehen uns.“*
+- **Stärken:** Geduldig, empathisch, ruhig
+- **Schwächen:** Konfliktscheu, manchmal zu passiv
+- **Motto:** *„Hauptsache, wir verstehen uns.“*
 
 ## 🔵 Blau – Der Analytiker
 
-**Stärken:** Logisch, ordentlich, verlässlich
-**Schwächen:** Perfektionistisch, zu kritisch
-**Motto:** *„Lass es uns richtig machen.“*
+- **Stärken:** Logisch, ordentlich, verlässlich
+- **Schwächen:** Perfektionistisch, zu kritisch
+- **Motto:** *„Lass es uns richtig machen.“*
 
 # 🤝 Wie die Farben aufeinander wirken
 
